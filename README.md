@@ -94,5 +94,6 @@ Join the station and measurement tables for some of the queries.
 Use the Flask jsonify function to convert your API data to a valid JSON response object.
 
 # References
-Week ten, day three flask activites for API site starter code 
-Week ten speedrun for review of API site creation and API data analysis queries and code
+Week ten, day three flask activites for API site starter code.
+
+Week ten speedrun for review of API site creation and API data analysis queries and code.
